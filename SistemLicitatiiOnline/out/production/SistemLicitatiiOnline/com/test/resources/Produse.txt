@@ -1,0 +1,30 @@
+tablou;101;Car cu boi;10000;6000;1899;Nicolae Grigorescu;tempera
+mobila;102;Canapea extensibila;3000;20;2020;tip L;burete
+bijuterie;103;Colier;5000;500;2019;argint;nu
+tablou;104;Mocanul;10000;5000;1900;Nicolae Grigorescu;tempera
+tablou;105;Maternitate;5000;1000;1901;Nicolae Grigorescu;tempera
+tablou;106;Spalatorese la rau;20000;2500;1902;Nicolae Grigorescu;ulei
+tablou;107;Batrana cu gastele;15000;3000;1903;Nicolae Grigorescu;ulei
+tablou;108;Cheful;200000;16000;1980;Stefan Luchian;ulei
+tablou;109;Mahalaua Dracului;60000;12000;1981;Stefan Luchian;acrilic
+tablou;110;La Marginea Satului;25000;15000;1982;Stefan Luchian;acrilic
+mobila;111;Scaun birou;1500;100;2020;tip L;burete
+mobila;112;Pat Mijloc;2500;100;2020;tip L;lemn
+mobila;113;Sifonier;3500;1000;2020;tip L;pal
+mobila;114;Comoda;700;80;2020;tip L;burete
+mobila;115;Birou;200;20;2020;tip L;pal
+mobila;116;Masa;700;60;2020;tip L;mdf
+mobila;117;Dulap baie;2000;600;2020;tip L;pal
+mobila;118;Dulap bucatarie;1500;300;2020;tip L;pal
+mobila;119;Bibilioteca;5000;700;2020;tip L;lemn
+bijuterie;120;Inel;2500;50;2019;aur;nu
+bijuterie;121;Lantic;2800;100;2019;aur alb;nu
+bijuterie;122;Cercei;3000;200;2019;argint;nu
+bijuterie;123;Bratara;2000;20;2019;argint;nu
+bijuterie;124;Perle;5000;1000;2019;aur;da
+bijuterie;125;Ceas;10000;2000;2019;aur;nu
+bijuterie;126;Ceas Fossil;15000;3000;2019;argint;nu
+bijuterie;127;Bratara swarovski;20000;5000;2019;aur;da
+bijuterie;128;Inel guess;50000;7000;2019;aur;nu
+bijuterie;129;Bratara fossil;12000;2800;2019;argint;nu
+bijuterie;130;Ceas calvin klein;13000;3000;2019;argint;nu

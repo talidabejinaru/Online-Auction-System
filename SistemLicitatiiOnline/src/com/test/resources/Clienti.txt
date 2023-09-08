@@ -1,0 +1,14 @@
+pf;50;Mihai Badea;Pitesti;5;1;26.03.1989
+pj;51;SC Tiab;Bucuresti;5;3;SRL;10000
+pf;52;Alex Popa;Pitesti;10;2;01.11.1992
+pj;53;SC Firma 1;Bucuresti;8;3;SA;15000
+pf;55;Adrian Alexa;Pitesti;20;3;26.03.1989
+pj;56;SC Firma 2;Bucuresti;15;4;SRL;10000
+pf;57;George Popescu;Pitesti;25;7;01.11.1992
+pj;58;SC Firma 3;Bucuresti;18;4;SA;15000
+pf;59;Rares Stan;Pitesti;50;10;26.03.1989
+pj;60;SC Firma 4;Bucuresti;17;6;SRL;10000
+pf;61;Andrei Ion;Pitesti;10;0;01.11.1992
+pj;62;SC Firma 5;Bucuresti;0;0;SA;15000
+pf;63;Marian Ion;Pitesti;10;0;01.11.1992
+pj;64;SC Firma 6;Bucuresti;0;0;SA;15000
